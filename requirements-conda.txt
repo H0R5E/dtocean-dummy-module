@@ -1,0 +1,12 @@
+# REQUIREMENTS FOR CONDA INSTALLATION
+
+# INSTALLATION REQUIRED DEPENDENCIES
+numpy
+openpyxl
+pandas
+polite >=0.9
+xlwt
+xlrd
+
+# TEST DEPENDENCIES
+pytest-cov
