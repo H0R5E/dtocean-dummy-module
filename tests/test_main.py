@@ -116,7 +116,8 @@ def test_spreadsheet_call(tmpdir):
         sheet(10, filep, out_fmt=ftype)
                 
     assert len(locd.listdir()) == len(sheet._valid_formats)
-    
+
+@pytest.mark.xfail
 def test_fail(tmpdir):
     
     '''Generate a test failure'''
