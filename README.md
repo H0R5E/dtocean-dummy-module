@@ -1,5 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/017pb1p0p1hrifm7?svg=true)](https://ci.appveyor.com/project/DTOcean/dtocean-dummy-module)
-[![codecov](https://codecov.io/gh/DTOcean/dtocean-dummy-module/branch/master/graph/badge.svg)](https://codecov.io/gh/DTOcean/dtocean-dummy-module)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/DTOcean/dtocean-dummy-module?branch=1.0.x&svg=true)](https://ci.appveyor.com/project/DTOcean/dtocean-dummy-module)
+[![codecov](https://codecov.io/gh/DTOcean/dtocean-dummy-module/branch/1.0.x/graph/badge.svg)](https://codecov.io/gh/DTOcean/dtocean-dummy-module)
 [**Lintly Score**](https://lintly.com/gh/DTOcean/dtocean-dummy-module/)
 [![release](https://img.shields.io/github/release/DTOcean/dtocean-dummy-module.svg)](https://github.com/DTOcean/dtocean-dummy-module/releases/latest)
 
