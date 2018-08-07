@@ -63,7 +63,7 @@ def test_table_cumsum_total():
     
     cumsum = sheet.table['Cumulative']
     
-    assert cumsum.irow(-1) == sum(array)
+    assert cumsum.iloc[-1] == sum(array)
     
 
 def test_create_csv(tmpdir):
